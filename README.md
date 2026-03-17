@@ -3,3 +3,5 @@
 .material
 
 .gfx
+
+E.B. ———∈ (post≡)
